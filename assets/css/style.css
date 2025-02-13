@@ -67,6 +67,12 @@ h2{
     margin-bottom: 1.5rem;
 }
 
+/* Games Library cards */
+#new-games .card,
+#fav-games .card{
+    border: none;
+}
+
 /* grid visualisation CSS for testing */
 /* .container,
 .row{
